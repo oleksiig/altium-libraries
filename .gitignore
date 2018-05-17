@@ -1,0 +1,6 @@
+*.zip
+*.log
+*.txt
+*.ckt
+*/History/*
+External/*
